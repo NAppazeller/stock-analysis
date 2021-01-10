@@ -1,17 +1,17 @@
 ## Green Stock Analysis
 Green energy stock analysis for Steve's parents
 
-###Project Overview
+### Project Overview
 
-Steve, a recent graduate, has requested assistance with stock analysis related to Green Energy stocks. Steve's clients have expressed specific interest DAQO New Energy Corp (NASDQ Ticker DQ). In addition to the targeted DQ analysis Steve wants to ensure the investment portfolio is diversified by also looking other Green Energy options.
+Steve, a recent finance graduate, has requested assistance with an analysis related to Green Energy stocks. Steve's clients have expressed specific interest DAQO New Energy Corp (NASDQ Ticker: DQ). In addition to a targeted DAQO New Energy Corp analysis Steve wants to ensure their investment portfolio is diversified. To do that he has request an additional analysis looking at other Green Energy investment options. To assist Steve with the analysis we will be leverging Visual Basics for Applications (VBA) in Excel. 
 
 
-###Analysis Results
+### Analysis Results
 -analysis w/ screen shots
 
 
 
-###Summary
+### Summary
 -advantage/disadvantages of refactoring code in general
 -advantage/disadvantages of the original and refactoring VBA script
 
