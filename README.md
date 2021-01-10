@@ -33,6 +33,6 @@ In general, the goal of refactoring code, whether it be in VBA, SQL or Python, i
 
 
 #### Green Stock Analysis VBA Code Refactoring
-For the purpose of our analysis we refactored the original code and noted improved performance. As expected, no data changed after the refactoring, however the code ran approximately 24% faster. In future, if Steve would like to increase the number of securities or time periods to be analyzed output will be generated 
+For the purpose of our analysis we refactored the original code and noted improved performance. As expected, no data changed after the refactoring, however the code ran approximately 24% faster. In the future, if Steve would like to increase the number of securities or time periods to be analyzed output will be generated quicker than if he used the original macro.
 
 
