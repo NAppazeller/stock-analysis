@@ -3,12 +3,13 @@ Green energy stock analysis for Steve's parents
 
 ### Project Overview
 
-Steve, a recent finance graduate, has requested assistance with an analysis related to Green Energy stocks. Steve's clients have expressed specific interest in DAQO New Energy Corp (NASDQ Ticker: DQ) a solar panels parts manufacturer. In addition to a targeted DAQO New Energy Corp analysis Steve wants to ensure their investment portfolio is diversified, yet still inline with the goal of supporting Green Energy investments. To do that he has request an additional analysis looking at other Green Energy investment options. To assist Steve with the analysis we will be leverging Visual Basics for Applications (VBA) in Excel. 
+Steve, a recent finance graduate, has requested assistance with an analysis related to Green Energy stocks. Steve's clients have expressed specific interest in DAQO New Energy Corp (NASDQ Ticker: DQ), a solar panel parts manufacturer. In addition to a targeted analysis of DAQO New Energy Corp, Steve wants to ensure their investment portfolio is diversified, yet still aligned with their goal of supporting Green Energy investments. To do that he has requested an analysis of other Green Energy investment options fo rteh calendar years 2017 and 2018. To assist Steve with the analysis we will be leverging Visual Basics for Applications (VBA) in Excel. 
 
 
 ### Analysis Results
--analysis w/ screen shots
+It will be important for Steve to understand his client's investment horizon as the requested analysis only spans two years. Given the limited data set it will be difficult to assess which securities outperformed their peers over a longer period. It would also be beneficial to measure each stock's performance against an appropriate benchmark to look for excess return.
 
+#### DAQO New Energy Corp (NASDQ Ticker: DQ)
 
 ![](https://github.com/NAppazeller/stock-analysis/blob/main/Resources/2017%20Refactor%20Execution%20Time.jpg)
 
