@@ -21,19 +21,18 @@ In 2017, DAQO New Energy Corp (Ticker: DQ) outperformed its peers in the green e
 
 In 2018, Sunrun Inc (Ticker: RUN) outperformed its peers in the green energy stock sample set with a return of 84.0%. Enphase Energy Inc (Ticker: ENPH) was the second highest performer with a return of 81.9%. DAQO New Energy Corp was the worst performer with a return of -62.6%
 
-Over the two-year period Enphase Energy Inc was the largest performer with a return of 211.1%. Solaredge Technologies Inc was the second highest performer with a return of 176.7%. SunPower Corporation (Ticker: SPWR) was the worst performer with a return of -21.5%.
+Over the two-year period Enphase Energy Inc was the highest performer with a return of 211.1%. Solaredge Technologies Inc was the second highest with a return of 176.7%. SunPower Corporation (Ticker: SPWR) was the worst performer with a return of -21.5%.
 
 ![](https://github.com/NAppazeller/stock-analysis/blob/main/Resources/2017%20Refactor%20Execution%20Time.jpg)
 
 ![](https://github.com/NAppazeller/stock-analysis/blob/df86747be99e3c90483bd4a956402e8062aff0f9/Resources/2018%20Refactor%20Execution%20Time.jpg)
 
-
 ### Summary
--advantage/disadvantages of refactoring code in general
+#### Code Refactoring
+In general, the goal of refactoring code, whether it be in VBA, SQL or Python, is to improve the efficiency of the script without disrupting or introducing new functionality. Refactoring is important because without it programmers may run into code that is duplicative, unreadable or worse yet, inefficient and buggy. 
 
 
-
-
--advantage/disadvantages of the original and refactoring VBA script
+#### Green Stock Analysis VBA Code Refactoring
+For the purpose of our analysis we refactored the original code and noted improved performance. As expected, no data changed after the refactoring, however the code ran approximately 24% faster. In future, if Steve would like to increase the number of securities or time periods to be analyzed output will be generated 
 
 
