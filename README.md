@@ -10,6 +10,12 @@ Steve, a recent finance graduate, has requested assistance with an analysis rela
 It will be important for Steve to understand his client's investment horizon as the requested analysis only spans two years. Given the limited data set it will be difficult to assess which securities outperformed their peers over a longer period. It would also be beneficial to measure each stock's performance against an appropriate benchmark to look for excess return.
 
 #### DAQO New Energy Corp (NASDQ Ticker: DQ)
+In 2017 DAQO New Energy Corp (NASDQ Ticker: DQ) out performed its peers in the green energy stock sample set. However, Steve's clients had also mentioned trading volume was an important part of the analysis. When comparing DAQO New Energy Corp (NASDQ Ticker: DQ) trade volume to the other stocks in the green energy stock sample set, it had the lowest trade volume.
+
+#### Green Energy Stock Analysis Sample
+
+
+
 
 ![](https://github.com/NAppazeller/stock-analysis/blob/main/Resources/2017%20Refactor%20Execution%20Time.jpg)
 
