@@ -12,6 +12,7 @@ Steve, a recent finance graduate, has requested assistance with an analysis rela
 
 ![](https://github.com/NAppazeller/stock-analysis/blob/main/Resources/2017%20Refactor%20Execution%20Time.jpg)
 
+![](https://github.com/NAppazeller/stock-analysis/blob/df86747be99e3c90483bd4a956402e8062aff0f9/Resources/2018%20Refactor%20Execution%20Time.jpg)
 
 
 ### Summary
