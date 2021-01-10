@@ -25,7 +25,7 @@ Over the two-year period Enphase Energy Inc was the highest performer with a ret
 
 ![](https://github.com/NAppazeller/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-![](https://github.com/NAppazeller/stock-analysis/blob/df86747be99e3c90483bd4a956402e8062aff0f9/Resources/2018%20Refactor%20Execution%20Time.jpg)
+![](https://github.com/NAppazeller/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ### Summary
 #### Code Refactoring
