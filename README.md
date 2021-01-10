@@ -1,4 +1,4 @@
-## Green Stock Analysis
+## Green Energy Stock Analysis
 Green energy stock analysis for Steve's parents
 
 ### Project Overview
