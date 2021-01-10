@@ -11,8 +11,15 @@ Steve, a recent finance graduate, has requested assistance with an analysis rela
 
 
 
+
+
+
 ### Summary
 -advantage/disadvantages of refactoring code in general
+
+
+
+
 -advantage/disadvantages of the original and refactoring VBA script
 
 
