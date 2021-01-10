@@ -10,7 +10,7 @@ Steve, a recent finance graduate, requested assistance with an analysis related 
 It will be important for Steve to understand his client's investment horizon as the requested analysis only spans two years. Given the limited data set it will be difficult to assess which securities outperformed their peers over a longer period. It would also be beneficial to measure each stock's performance against an appropriate benchmark to look for excess return.
 
 #### DAQO New Energy Corp (Ticker: DQ)
-In 2017, DAQO New Energy Corp (Ticker: DQ) outperformed its peers in the green energy stock sample set with a return of 199.4%. However, Steve's clients had also mentioned trading volume was an important part of the analysis. When comparing the trade volume for DAQO New Energy Corp to the other stocks in the green energy stock sample set, it had the lowest trade volume.
+In 2017, DAQO New Energy Corp (Ticker: DQ) outperformed its peers in the green energy stock sample set with a return of 199.4%. However, Steve's clients had also mentioned trading volume being an important part of the analysis. When comparing the trade volume for DAQO New Energy Corp to the other stocks in the green energy stock sample set, it had the lowest trade volume.
 
 In 2018, DAQO New Energy Corp was a laggard compared to its peers in the green energy stock sample set with a return of -62.6%. Like 2017, the trade volume for DAQO remained low when compared to its peers.
 
